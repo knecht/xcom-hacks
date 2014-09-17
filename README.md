@@ -35,5 +35,6 @@ export LD_LIBRARY_PATH="/path/to/SteamLibrary/SteamApps/common/XCom-Enemy-Unknow
 cd /path/to/SteamLibrary/SteamApps/common/XCom-Enemy-Unknown/xew
 LD_PRELOAD=/path/to/libxcomfix.so binaries/linux/game.x86_64
 ```
+TODO: find out whether a patched start script as in step 2 would work here, too
  
  
